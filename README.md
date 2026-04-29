@@ -20,7 +20,7 @@ YouTube's Data API does **not** expose the Watch Later (WL) playlist directly. T
 ### 1. Clone & install
 
 ```bash
-git clone github.com/fluffy-bunny-23/yt-wl-sorter.git
+git clone github.com/Fluffy-Bunny-23/yt-wl-sorter.git
 pip install -r requirements.txt
 ```
 
