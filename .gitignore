@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+.venv/
+
+# Secrets & credentials
+.env
+client_secret.json
+token.pickle
+
+# Generated / output files
+watch_later_ids.txt
+
